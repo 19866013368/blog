@@ -3,12 +3,13 @@ menu:
   Home: /
   Archives: /archives
   About: /about
+  new: /null
 rss: /atom.xml
 
 home:
   style: default           # default, detail
 
-favicon:                   # Path to the custom favicon (e.g. "/favicon.png" if your favicon file is located at /source/favicon.png)
+favicon:                  # Path to the custom favicon (e.g. "/favicon.png" if your favicon file is located at /source/favicon.png)
 
 # Banner
 banner:
@@ -18,7 +19,7 @@ banner:
   onAllPages: true         # Display banner on all pages
 
 # Appearence
-hue: 270                   # The hue of the theme color (e.g. red: 0, orange: 60, blue: 260, purple: 300, pink: 345)
+hue: 285                   # The hue of the theme color (e.g. red: 0, orange: 60, blue: 260, purple: 300, pink: 345)
 
 # Sidebar
 sidebar:
@@ -36,13 +37,13 @@ archive_type: 'monthly'
 recent_posts_limits: 5
 
 # Personal info
-avatar: 
-author: Your Name
+avatar: ./shiro1.png
+author: Asukai
 subtitle: This is the subtitle
 links:
-  - name: Twitter
-    icon: fa-brands fa-twitter      # Find icon codes at https://fontawesome.com/search
-    url: https://twitter.com
+  - name: Gitee
+    icon: fa fa-user     # Find icon codes at https://fontawesome.com/search
+    url: https://gitee.com/Cn_asukai
   - name: Steam
     icon: fa-brands fa-steam
     url: https://store.steampowered.com
