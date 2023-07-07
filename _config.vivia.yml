@@ -46,10 +46,10 @@ links:
     url: https://gitee.com/Cn_asukai
   - name: Steam
     icon: fa-brands fa-steam
-    url: https://store.steampowered.com
+    url: https://steamcommunity.com/id/Cn_Asukai/
   - name: GitHub
     icon: fa-brands fa-github
-    url: https://github.com
+    url: https://github.com/Cn-Asukai
 
 comment:
   valine:
