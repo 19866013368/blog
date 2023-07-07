@@ -4,7 +4,7 @@
 
 # Site
 title: Asukai
-subtitle: 'test'
+subtitle: '世界的终结者'
 description: ''
 keywords:
 author: 暮居池
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: vivia
+theme: nexmoe
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
